@@ -10,6 +10,9 @@ I'm also VERY interested in feedback / PRs, so send them my way or email me!
 * Leverage the builtin REPL eval(), giving us autocomplete, etc.
 
 ## Usage
+
+`npm install --save-dev node-repl-loader`
+
 Just add this to your loaders list for JS files. Right now this only supports 1 entry point, so your webpack.config.js has to be in the form of:
 ```
   entry: "./foo.js",
