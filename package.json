@@ -9,6 +9,7 @@
     "repl",
     "loader"
   ],
-  "author": "Chris Howes",
+  "repository": "github:chrishowes/node-repl-loader",
+  "author": "Chris Howes <chrishowes@outlook.com> (http://github.com/chrishowes/)",
   "license": "ISC"
 }
