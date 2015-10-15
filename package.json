@@ -1,0 +1,14 @@
+{
+  "name": "node-repl-loader",
+  "version": "0.0.1",
+  "description": "Creates a namespace-enabled REPL for use with NodeJS and Webpack",
+  "main": "index.js",
+  "keywords": [
+    "node",
+    "webpack",
+    "repl",
+    "loader"
+  ],
+  "author": "Chris Howes",
+  "license": "ISC"
+}
