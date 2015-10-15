@@ -32,7 +32,6 @@ if (module.id === 0) { \n\
 }';
 
 module.exports = function(source) {
-  console.log(source + "\n\n" + REPL_JS);
   this.callback(null, source + "\n\n" + REPL_JS);
 };
 
